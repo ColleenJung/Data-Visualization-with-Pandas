@@ -36,9 +36,6 @@ This Jupyter notebook provides a comprehensive guide to data visualization using
    
 <img width="456" alt="Screenshot 2024-03-03 at 10 44 17 AM" src="https://github.com/ColleenJung/Data-Visualization-with-Pandas/assets/119357849/c8a51570-2eea-4af7-a4ce-f64009719e1c">
 
-Additional plots like hexagonal binning and density estimate plots are also covered.
-
-<img width="491" alt="Screenshot 2024-03-03 at 10 37 28 AM" src="https://github.com/ColleenJung/Data-Visualization-with-Pandas/assets/119357849/0506313b-0103-4846-bc6e-c658eec10608">
 
 Additional plots like hexagonal binning and density estimate plots are also covered.
 <img width="457" alt="Screenshot 2024-03-03 at 10 43 15 AM" src="https://github.com/ColleenJung/Data-Visualization-with-Pandas/assets/119357849/513068b2-8e85-4b7b-9562-dcb726758fc8">
